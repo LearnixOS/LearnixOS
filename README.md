@@ -1,7 +1,7 @@
 # **What is LearnixOS?**
-  - An easy to use Distro that was created to be pre-configured with i3 and cinnamon
-  - GNU/Linux distro tailed for the beginners 🦾
-      - It teaches the user how to use compiler based distros, ofc this is optional and binary based is defaulted
+  - An easy to use Distro created and pre-configured with i3 and Cinnamon
+  - GNU/Linux distro tailored towards beginners 🦾
+      - Teaches the user how to use compiler based distros. Compiler features are optional and binary packages are the default.
   - GPL_3.0 License, we will stay open-source :fire: :fire: :fire:
 
 # **Should I use it?**
