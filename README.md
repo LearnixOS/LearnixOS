@@ -5,7 +5,7 @@
   - GPL_3.0 License, we will stay open-source :fire: :fire: :fire:
 
 # **Should I use it?**
-  - This is really easy to use, videos online for tutorials on Learnix's Channel :flex:
+  - This is really easy to use, videos online for tutorials on Learnix's Channel 🦾
   - Why not? You watched LearnixTV, I would trust the OS made after him 🐧
 
 # **Credits:**
