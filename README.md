@@ -10,7 +10,7 @@
 
 # **Credits:**
   - LearnixTV (for existing and creating the cool logo)
-  - cowmonk (maintainer of LearnixOS github acc lmao)
+  - cowmonk (Owner of the LearnixOS inc)
   - Dominara (absolute femchad who is soloing LFS to create this masterpiece)
   - Ping (web dev, kick started the website)
   - (comming soon... hopefully, I can't do this by myself :sob:)
