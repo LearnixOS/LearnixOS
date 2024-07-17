@@ -1,6 +1,7 @@
 What is LearnixOS?
   - An easy to use Distro that was created to be pre-configured with i3 and cinnamon
   - GNU/Linux distro tailed for the beginners 🦾
+      - It teaches the user how to use compiler based distros, ofc this is optional and binary based is defaulted
   - GPL_3.0 License, we will stay open-source :fire: :fire: :fire:
 
 Should I use it?
@@ -8,8 +9,10 @@ Should I use it?
   - Why not? You watched LearnixTV, I would trust the OS made after him 🐧
 
 Credits:
-  - cowmonk (me, the one only current maintainer of LearnixOS)  
-  - Ping (lead web dev)
+  - LearnixTV (for existing and creating the cool logo)
+  - cowmonk (maintainer of LearnixOS github acc lmao)
+  - Dominara (absolute chad who is soloing LFS to create this masterpiece)
+  - Ping (web dev, kick started the website)
   - (comming soon... hopefully, I can't do this by myself :sob:)
 
 Screenshots:
