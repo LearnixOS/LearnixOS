@@ -1,3 +1,5 @@
+![LearnixOS](https://raw.githubusercontent.com/LearnixOS/learnixos.github.io/main/static/images/learnix-title-logo.png)
+
 # **What is LearnixOS/LXOS?** 
 ### A distribution that:
   - Is aligned with scalability and accessibility, meant specifically for inexperienced users.
