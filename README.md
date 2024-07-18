@@ -1,19 +1,22 @@
-# **What is LearnixOS?**
-  - An easy to use Distro created and pre-configured with i3 and Cinnamon
-  - GNU/Linux distro tailored towards beginners 🦾
-      - Teaches the user how to use compiler based distros. Compiler features are optional and binary packages are the default.
-  - GPL_3.0 License, we will stay open-source :fire: :fire: :fire:
+# **What is LearnixOS/LXOS?** 
+  - A distribution that:
+  - Is aligned with scalability and accessibility, meant specifically for inexperienced users.
+  - Is pre-configured for an i3 and Cinnamon desktop respectively.
+  - An offering to those who are interested in learning about compilation-based distributions, with a modifed version of Portage meant for speed and efficiency.
+  - Offers binary-based packages by default, with source-based packages being an encouraged option.
+  - Is completely GPL_3.0, We will remain open source. :fire:
 
-# **Should I use it?**
-  - This is really easy to use, videos online for tutorials on Learnix's Channel 🦾
+# **Reasons to use LXOS:**
+  - LXOS is designed to be easy to configure for new and experienced users alike.
+  - LXOS is scalable and unique in its implementations, focusing on user-preference and efficiency.
+  - Documentation is provided via Github, Youtube, and the OS itself.
   - Why not? You watched LearnixTV, I would trust the OS made after him 🐧
 
 # **Credits:**
-  - LearnixTV (for existing and creating the cool logo)
-  - cowmonk (Owner of the LearnixOS inc)
-  - Dominara (absolute femchad who is soloing LFS to create this masterpiece)
+  - LearnixTV (For existing and creating the logo, managing documentation/formatting, graphics assistance and planning)
+  - cowmonk (Spearheading the project, web dev assistance, managing documentation and planning)
+  - Dominara (absolute femchad. Managing and creating LXOS via LFS.)
   - Ping (web dev, kick started the website)
-  - (comming soon... hopefully, I can't do this by myself :sob:)
 
 # **Screenshots:**
   (soon to have, will be fire tho :fire:)
