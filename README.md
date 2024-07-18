@@ -1,5 +1,5 @@
 # **What is LearnixOS/LXOS?** 
-   A distribution that:
+### A distribution that:
   - Is aligned with scalability and accessibility, meant specifically for inexperienced users.
   - Is pre-configured for an i3 and Cinnamon desktop respectively.
   - An offering to those who are interested in learning about compilation-based distributions, with a modifed version of Portage meant for speed and efficiency.
