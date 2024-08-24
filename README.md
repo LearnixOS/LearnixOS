@@ -16,8 +16,7 @@
 
 # **Credits:**
   - LearnixTV (For existing and creating the logo, managing documentation/formatting, graphics assistance and planning)
-  - cowmonk (Spearheading the project, web dev assistance, managing documentation and planning)
-  - Dominara (absolute femchad. Managing and creating LXOS via LFS.)
+  - cowmonk (Developing LearnixOS, web dev assistance, managing documentation and planning)
   - Ping (web dev, kick started the website)
 
 # **Screenshots:**
