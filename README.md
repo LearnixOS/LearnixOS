@@ -1,4 +1,4 @@
-![LearnixOS](https://raw.githubusercontent.com/LearnixOS/learnixos.github.io/main/static/images/learnix-title-logo.png)
+![LearnixOS](https://i.imgur.com/8hNEPBk.png)
 
 # **What is LearnixOS/LXOS?** 
 ### A distribution that:
