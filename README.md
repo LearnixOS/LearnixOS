@@ -4,8 +4,8 @@
 ### A distribution that:
   - Is aligned with scalability and accessibility, meant specifically for inexperienced users.
   - Is pre-configured for an i3 and Cinnamon desktop respectively.
-  - An offering to those who are interested in learning about compilation-based distributions, with a modifed version of Portage meant for speed and efficiency.
-  - Offers binary-based packages by default, with source-based packages being an encouraged option.
+  - An offering to those who are interested in learning about compilation-based distributions, with a custom package manager.
+  - Offers source-based packages being compiled with pms, our own package manager.
   - Is completely GPL_3.0, We will remain open source. :fire:
 
 # **Reasons to use LXOS:**
