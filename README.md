@@ -16,7 +16,7 @@
 
 # **Credits:**
   - LearnixTV (For existing and creating the logo, managing documentation/formatting, graphics assistance and planning)
-  - cowmonk (Developing LearnixOS, web dev assistance, managing documentation and planning)
+  - cowmonk, user7210unix (Developing LearnixOS, web dev assistance, managing documentation and planning)
   - Ping (web dev, kick started the website)
 
 # **Screenshots:**
