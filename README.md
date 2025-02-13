@@ -1,5 +1,3 @@
-![LearnixOS](https://i.imgur.com/8hNEPBk.png)
-
 # **What is LearnixOS/LXOS?** 
 ### A distribution that:
   - Is aligned with scalability and accessibility, meant specifically for inexperienced users.
@@ -7,6 +5,12 @@
   - An offering to those who are interested in learning about compilation-based distributions, with a custom package manager.
   - Offers source-based packages being compiled with pms, our own package manager.
   - Is completely GPL_3.0, We will remain open source. :fire:
+
+<h1>
+      <img src="https://i.imgur.com/8hNEPBk.png" align="right" alt="Logo" width="550" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+</div>
+</div> 
+
 
 # **Reasons to use LXOS:**
   - LXOS is designed to be easy to configure for new and experienced users alike.
