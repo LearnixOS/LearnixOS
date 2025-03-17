@@ -6,11 +6,10 @@
   - Offers source-based packages being compiled with pms, our own package manager.
   - Is completely GPL_3.0, We will remain open source. :fire:
 
-<h1>
-      <img src="https://i.imgur.com/8hNEPBk.png" align="right" alt="Logo" width="260" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
-</div>
-</div> 
+<div align="right">
 
+
+<img src="https://raw.githubusercontent.com/LearnixOS/learnixos.github.io/refs/heads/main/assets/images/logo.png" align="right" alt=" Preview" width="250" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
 
 # **Reasons to use LXOS:**
   - LXOS is designed to be easy to configure for new and experienced users alike.
