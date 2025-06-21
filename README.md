@@ -1,11 +1,29 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/LearnixOS/learnixos.github.io/refs/heads/main/assets/images/logo.png" align="center" alt="Preview" width="200" style="display: block; margin: 0; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+</div>
 
+<div align="center">
+  <h2 style="font-size: 84px;">
+    <strong>
+      <a href="https://learnixos.github.io/" style="text-decoration: none; color: inherit;">
+        Visit the Website
+      </a>
+    </strong>
+  </h2>
+</div>
 
-<img src="https://raw.githubusercontent.com/LearnixOS/learnixos.github.io/refs/heads/main/assets/images/logo.png" align="center" alt=" Preview" width="250" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+<p align="center">
+  <img src="https://img.shields.io/github/stars/LearnixOS/LearnixOS?style=flat-square" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/forks/LearnixOS/LearnixOS?style=flat-square" alt="GitHub Forks"/>
+  <img src="https://img.shields.io/github/license/LearnixOS/LearnixOS?style=flat-square" alt="License"/>
+</p>
 
-
-
+<div align="center">
+  
 # **What is LearnixOS/LXOS?** 
+
+<div align="left">
+
 ### A distribution that:
   - Is aligned with scalability and accessibility, meant specifically for inexperienced users.
   - Is pre-configured for an i3 and Cinnamon desktop respectively.
